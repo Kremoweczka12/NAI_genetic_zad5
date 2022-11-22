@@ -1,0 +1,3 @@
+C:/Users/Komputer/CLionProjects/genetic_alorithm/cmake-build-debug/CMakeFiles/genetic_alorithm.dir
+C:/Users/Komputer/CLionProjects/genetic_alorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Komputer/CLionProjects/genetic_alorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
